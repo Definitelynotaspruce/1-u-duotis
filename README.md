@@ -1,2 +1,2 @@
-# 1-u-duotis
+# 1-užduotis
 Pirmoji OOP užduotis
